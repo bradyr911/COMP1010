@@ -47,6 +47,9 @@ class RivardBradyA4 {
 
     //isPrime(...) checks if the number passed to it is a prime number
     static boolean isPrime(int num) {
+        for (int i = 0; i < num; i++) {
+            
+        }
         return true;
     }
 }
